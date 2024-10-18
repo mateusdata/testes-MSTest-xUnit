@@ -47,7 +47,7 @@ public class ApiTestMSTest
     {
        
         int userId = 140;
-        string message = "string";
+        string message = "Minha postagem massa";
 
        
         var response = await _apiService.CreatePost(userId, message);

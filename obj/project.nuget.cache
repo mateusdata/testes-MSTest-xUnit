@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5Z+231GeEo=",
+  "dgSpecHash": "zxSPJ/pQlKM=",
   "success": true,
-  "projectFilePath": "/workspaces/Testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
+  "projectFilePath": "/workspaces/testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",

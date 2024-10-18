@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj": {}
+    "/workspaces/testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj": {}
   },
   "projects": {
-    "/workspaces/Testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj": {
+    "/workspaces/testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
+        "projectUniqueName": "/workspaces/testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
         "projectName": "Testes-MSTest-xUnit",
-        "projectPath": "/workspaces/Testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
+        "projectPath": "/workspaces/testes-MSTest-xUnit/Testes-MSTest-xUnit.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Testes-MSTest-xUnit/obj/",
+        "outputPath": "/workspaces/testes-MSTest-xUnit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
